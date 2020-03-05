@@ -1,0 +1,10 @@
+.ch-empty-cart h2{
+    text-align: center;
+    margin-top: 50px;
+}
+.ch-empty-cart button{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

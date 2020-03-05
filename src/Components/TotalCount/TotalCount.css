@@ -1,0 +1,18 @@
+.ch-total-box{
+    width: 80%;
+    border-top: 1px solid silver;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: right;
+    padding-bottom: 20px;
+}
+.ch-total-box .ch-total{
+    color: rgba(0,0,0,0.8);
+    text-align: center;
+}
+.ch-Shopping-btn{
+    margin-right: auto !important;
+    margin-left: auto !important;
+    display: block !important;
+}

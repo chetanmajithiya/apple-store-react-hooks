@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "iPhone 11 Pro Max",
+      "image": "/static/img/iphone/i11pro.jpg",
+      "price": "100000",
+      "discount": "15"
+    },
+    {
+      "id": "2",
+      "title": "iPhone X  Space Grey",
+      "image": "/static/img/iphone/ix.jpg",
+      "price": "68990",
+      "discount": "12"
+    },
+    {
+      "id": "3",
+      "title": "iPhone XR White",
+      "image": "/static/img/iphone/ixrwhite.jpg",
+      "price": "49900",
+      "discount": "25"
+    },
+    {
+      "id": "4",
+      "title": "iPhone 6s Plus",
+      "image": "/static/img/iphone/i6splus.jpg",
+      "price": "35000",
+      "discount": "15"
+    },
+    {
+      "id": "7",
+      "title": "iPhone Xs Max",
+      "image": "/static/img/iphone/ixsmax.jpg",
+      "price": "80000",
+      "discount": "30"
+    },
+    {
+      "id": "6",
+      "title": "iPhone 7 Plus Black",
+      "image": "/static/img/iphone/i7plusblack.jpg",
+      "price": "40000",
+      "discount": "50"
+    },
+    {
+      "id": "8",
+      "title": "iPhone 8 Plus",
+      "image": "/static/img/iphone/i8plus.jpg",
+      "price": "60000",
+      "discount": "8"
+    },
+    {
+      "id": "9",
+      "title": "iPhone XR Red",
+      "image": "/static/img/iphone/ixrred.jpg",
+      "price": "50000",
+      "discount": "15"
+    },
+    {
+      "id": "10",
+      "title": "iPhone 11 White",
+      "image": "/static/img/iphone/i11white.jpg",
+      "price": "65000",
+      "discount": "4"
+    },
+    {
+      "id": "5",
+      "title": "iPhone 6s Plus",
+      "image": "/static/img/iphone/i6splus.jpg",
+      "price": "35000",
+      "discount": "10"
+    }
+  ]
+}
